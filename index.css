@@ -48,7 +48,7 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
-  align-item: center;
+  align-items: center;
 }
 
 .bd1 {
@@ -272,5 +272,8 @@ body {
   }
   .ref {
     margin: 10px 20px;
+  }
+  .sitename {
+    font-size: 24px;
   }
  }
